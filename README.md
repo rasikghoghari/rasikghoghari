@@ -1,16 +1,29 @@
-## Hi there 👋
+<h2>Hi 👋, I'm Rasik Ghoghari</h2>
+<h5>🚀 Full Stack WordPress Developer | UI/UX Enthusiast | Plugin & Theme Customizer</h5>
 
-<!--
-**rasikghoghari/rasikghoghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+- 💡 Passionate about solving problems through clean code & scalable design.
+- 🧠 Currently learning advanced Full Stack development with real-world projects.
+- 🛠️ Specialized in WordPress, WooCommerce, and Custom Plugin/Theme Development.
+- 🎓 Bachelor’s degree in Computer Applications from **Vivekanand College For BCA**.
+- 🧩 Always curious to learn new tools, trends, and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools
+
+#### 💻 Development
+PHP | WordPress | WooCommerce | Theme Customization | Plugin Development
+
+#### 🌐 Front-End
+HTML5 | CSS3 | JavaScript | Bootstrap | jQuery | Ajax | React.js
+
+#### 🗄️ Back-End & DB
+MySQL | SQL
+
+#### 🔧 Dev Tools
+Git | GitHub | GitLab | Bitbucket
+
+#### 🎨 UI/UX & Design
+Figma | Canva | Adobe XD
+
+<p>✨ Let's build something amazing together ✨</p>
